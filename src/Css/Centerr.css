@@ -1,0 +1,30 @@
+.main-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  font-size: 1.4rem;
+  color: rgb(245, 247, 249);
+  text-align: center;
+  margin-left: 40px;
+  flex-direction: row;
+}
+.title-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vh;
+  gap: 20%;
+}
+
+.city-name > p {
+  margin-top: 5px;
+  font-size: 2rem;
+}
+
+.title > h2 {
+  margin-bottom: 10px;
+}
+.city-name > h2 {
+  margin-bottom: 1 0px;
+}
